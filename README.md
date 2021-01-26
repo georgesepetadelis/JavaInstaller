@@ -1,2 +1,2 @@
 # Java Installer
-Run `sh javainstaller.sh` on the location when you have downloaded the `javainstaller.sh` file
+Run `sh java_installer.sh` on the location when you have downloaded the `java_installer.sh` file
